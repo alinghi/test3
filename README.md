@@ -1,4 +1,4 @@
-# is-521
+# IS-521
 # Author : Na, Yun Seok
 
 This is a git, latex training activity.
