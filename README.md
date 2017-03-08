@@ -1,4 +1,4 @@
-# IS-521
+# IS-521: Git Exercise
 # Author : Na, Yun Seok
 
 This is a git, latex training activity.
